@@ -8,7 +8,6 @@ public class Main {
         System.out.println("privet");
 //        int[] arr = {1, 2, 3, 4, 5, 6};
 //        System.out.println(Arrays.toString(reverseArray(arr)));
-
     }
 
     public static int[] reverseArray(int[] arr) {
